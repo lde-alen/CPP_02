@@ -2,6 +2,7 @@ NAME		=	a.out
 
 SRCS		=	main.cpp			\
 				Fixed.cpp			\
+				Fixed.hpp			\
 
 OBJS		=	$(SRCS:.cpp=.o)
 
